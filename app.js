@@ -9,10 +9,10 @@
   /* ==========================================================================
      CONFIGURATION CONSTANTS
      ========================================================================== */
-  const TOTAL_FRAMES = 240;
-  const FRAME_DIR = 'frames/';
+  const TOTAL_FRAMES = 600;
+  const FRAME_DIR = 'sequence/';
   const FRAME_PREFIX = 'frame_';
-  const FRAME_EXT = '.webp';
+  const FRAME_EXT = '.jpg';
 
   /* ==========================================================================
      APPLICATION STATE
