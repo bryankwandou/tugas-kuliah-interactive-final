@@ -171,7 +171,7 @@
 
     // Update HUD metrics
     if (dom.hudFrameCount) {
-      dom.hudFrameCount.textContent = `${String(Math.round(frameNum)).padStart(4, '0')} / 0240`;
+      dom.hudFrameCount.textContent = `${String(Math.round(frameNum)).padStart(4, '0')} / 0600`;
     }
     if (dom.hudVelocity) {
       dom.hudVelocity.textContent = `${String(speed).padStart(3, '0')} KM/H`;
